@@ -4,6 +4,8 @@
 # Chaos: :rnsipsum (random 1–4 sentences), :rpnsipsum (random 1–4 paragraphs)
 
 # Global sentence pool (YAML anchor; Espanso ignores unknown top-level keys)
+# Latin to English translations are provided as comments for clarity.
+# Note: The sentences are intentionally whimsical and not meant to be grammatically correct.
 ns_pool: &NS_SENTENCES
 - "Lorem routerum sub netstat magna; packeti per VLAN et OSPF fluunt."
   # The router speaks loudly under netstat; packets flow through VLANs and OSPF.
