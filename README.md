@@ -1,4 +1,4 @@
-# nsIPsum – Network Security Ipsum for Espanso
+# nsIPsum – Network Security Lorem Ipsum generator for Espanso
 
 **nsIPsum** is an [Espanso](https://espanso.org) package that generates randomized, lorem-ipsum style filler text with a networking and security theme.  
 It’s useful for creating mock documentation, demo configs, lab write-ups, or test fixtures where placeholder text is needed.  
