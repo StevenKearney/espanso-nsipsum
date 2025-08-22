@@ -18,13 +18,13 @@ It’s useful for creating mock documentation, demo configs, lab write-ups, or t
 
 ### Espansohub Install (preferred)
 
-1. PENDING ACCEPTANCE INTO HUB
+1. PENDING ACCEPTANCE INTO [ESPANSO HUB](https://hub.espanso.org/)
 
 ### Manual Install
 
 1. Install [Espanso](https://espanso.org).
 2. Clone or download this repository
-3. Copy /nsipsum folder to \espanso\match\packages in your Espanso installation directory
+3. Copy `nsipsum` folder to `\espanso\match\packages` in your Espanso installation directory
 
 ---
 
