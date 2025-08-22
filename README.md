@@ -14,6 +14,20 @@ It’s useful for creating mock documentation, demo configs, lab write-ups, or t
 
 ---
 
+## 🔧 Installation
+
+### Espansohub Install (preferred)
+
+1. PENDING ACCEPTANCE INTO HUB
+
+### Manual Install
+
+1. Install [Espanso](https://espanso.org).
+2. Clone or download this repository
+3. Copy /nsipsum folder to \espanso\match\packages in your Espanso installation directory
+
+---
+
 ## ⌨️ Usage
 
 Type one of the triggers in any text field and Espanso will expand it:
@@ -29,7 +43,7 @@ Type one of the triggers in any text field and Espanso will expand it:
 ### Chaos
 - `:rnsipsum` → 1–4 random sentences  
 - `:rpnsipsum` → 1–4 random paragraphs
-- 
+  
 ## 📂 Example
 
 Typing `:pnsipsum` might expand into:
